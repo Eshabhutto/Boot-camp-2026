@@ -1,0 +1,26 @@
+.lecture4{
+    background-color: cadetblue;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    padding-top: 40px;
+    margin: 20px;
+}
+.Box2{
+    background-color: black;
+    font-style: italic;
+    font-size: 40px;
+    color: aquamarine;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+
+}
+.fbimage img{
+    height: 100px;
+    width: 100px;
+
+}
+.fbimage p {
+font-size: 80px;
+}
