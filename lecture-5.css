@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(159, 13, 212);
+  
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    background-color: aquamarine;
+}
+.links{
+    display: flex;
+    gap: 20px;
+}
